@@ -14,4 +14,8 @@ public class MessageUtil {
         System.out.println(message);
         return message;
     }
+
+    public void loop(){
+        while(true);
+    }
 }  
